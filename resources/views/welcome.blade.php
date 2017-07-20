@@ -44,8 +44,18 @@
                     <i class="fa fa-play-circle"></i> <span class="light">Sport</span> Addict
                 </a>
                 <li>
-                        <a class="page-scroll" href="#about">Sepak Bola</a>
+                        <a class="page-scroll" href="#about">Sepak Bola</a> 
                     </li>
+                    <li>
+                        <a class="page-scroll" href="#about">Bulu Tangkis</a>
+                    </li>
+                    <li>
+                        <a class="page-scroll" href="#about">Basket</a>
+                    </li>
+                    <li>
+                        <a class="page-scroll" href="#about">Tenis</a>
+                    </li>
+
             </div>
 
             <!-- Collect the nav links, forms, and other content for toggling -->
@@ -75,6 +85,93 @@
                         <h1 class="brand-heading">Sport Addict</h1>
                         <p class="intro-text">Forever Young and Wild.</p>
                         
+                         <section id="portfolio" class="bg-light-gray">
+        <div class="container">
+            <div class="row">
+                
+            </div>
+            <div class="row">
+                <div class="col-md-4 col-sm-6 portfolio-item">
+                    <a href="#portfolioModal1" class="portfolio-link" data-toggle="modal">
+                        <div class="portfolio-hover">
+                        </div>
+                       <center><img src="img/portofolio/bayern.jpg" class="img-responsive" alt=""></center>
+                    </a>
+                    <div class="portfolio-caption">
+                        <h4>Arsenal dan bayern adu lotre bersama uttaran</h4>
+                        
+                    </div>
+                </div>
+                <div class="col-md-4 col-sm-6 portfolio-item">
+                    <a href="#portfolioModal2" class="portfolio-link" data-toggle="modal">
+                        <div class="portfolio-hover">
+                        
+                        </div>
+                        <center><img src="img/portofolio/bulutangkis1.jpg" class="img-responsive" alt=""></center>
+                    </a>
+                    <div class="portfolio-caption">
+                        <h4>Liliatna nasir mengaku salatri saat sea games</h4>
+                        
+                    </div>
+                </div>
+                <div class="col-md-4 col-sm-6 portfolio-item">
+                    <a href="#portfolioModal3" class="portfolio-link" data-toggle="modal">
+                        <div class="portfolio-hover">
+                            
+                        </div>
+                        <center><img src="img/portofolio/yaoming1.jpg" class="img-responsive" alt=""></center>
+                    </a>
+                    <div class="portfolio-caption">
+                        <h4>Pemain asal sanghai ini kesal karena mukanya di jadikan meme</h4>
+                        
+                    </div>
+                </div>
+                <div class="col-md-4 col-sm-6 portfolio-item">
+                    <a href="#portfolioModal4" class="portfolio-link" data-toggle="modal">
+                        <div class="portfolio-hover">
+                            <div class="portfolio-hover-content">
+                                <i class="fa fa-plus fa-3x"></i>
+                            </div>
+                        </div>
+                        <img src="img/portfolio/golden.png" class="img-responsive" alt="">
+                    </a>
+                    <div class="portfolio-caption">
+                        <h4>Golden</h4>
+                        
+                    </div>
+                </div>
+                <div class="col-md-4 col-sm-6 portfolio-item">
+                    <a href="#portfolioModal5" class="portfolio-link" data-toggle="modal">
+                        <div class="portfolio-hover">
+                            <div class="portfolio-hover-content">
+                                <i class="fa fa-plus fa-3x"></i>
+                            </div>
+                        </div>
+                        <img src="img/portfolio/escape.png" class="img-responsive" alt="">
+                    </a>
+                    <div class="portfolio-caption">
+                        <h4>Escape</h4>
+                        
+                    </div>
+                </div>
+                <div class="col-md-4 col-sm-6 portfolio-item">
+                    <a href="#portfolioModal6" class="portfolio-link" data-toggle="modal">
+                        <div class="portfolio-hover">
+                            <div class="portfolio-hover-content">
+                                <i class="fa fa-plus fa-3x"></i>
+                            </div>
+                        </div>
+                        <img src="img/portfolio/dreams.png" class="img-responsive" alt="">
+                    </a>
+                    <div class="portfolio-caption">
+                        <h4>Dreams</h4>
+                        
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
                     </div>
                 </div>
             </div>
